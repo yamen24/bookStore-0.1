@@ -1,23 +1,28 @@
 # bookStore
 
-#members:
+# members:
 1- ROKI MD RASEL RANA - 1820927 
+
 2- yamen alzeiter 1725635 
+
 3 - MUKTER HOSSAIN - 1825175 
+
 4- MOHAMMAD SAZIDUR RAHMAN - 1835197 
+
 5- Md Mostafizur Rahman Rahat 1823811
 
 
-##introduction
+
+## introduction
 We are selecting educational related topics as our group project. We have decided to work on our project on “online book store”. We will create a web application for online book store. A software project for an online bookstore that serves as a central database for all of the books in stock, as well as their title, author, and price.
 
-##objectives
+## objectives
 The aim of this project is to create a website that serves as a central book store. Our web application customers will be able to purchase any book and book related information. 
 
-##Features and functionalities
+## Features and functionalities
 The front end of this website is built with HTML, CSS, and the back end is built with PHP. The SQL database stores a variety of book-related data. A user can find a various selection of books organised by category on the website. The user can select a book and view the price. The website can also be used to search for unique books. After selecting a book, the user must complete a form before the book can be booked for him.
 
-###Views 
+### Views 
 Auth:
 -login.blade.php
 -register.blade.php
@@ -32,7 +37,7 @@ Layout:
 -home.blade.php
 -welcome.blade.php
 
-###Controllers
+### Controllers
 -BookController.php
 -CartController.php
 -Controller.php
@@ -40,17 +45,17 @@ Layout:
 -HomeController.php
 -OrderController.php
 
-#Routes
+# Routes
 -api.php
 -channels.php
 -console.php
 -web.php
 
-###Models
+### Models
 -book.php
 -cart.php
 -order.php
 -user.php
 
-###ER Diagram: 
+### ER Diagram: 
 ![Picture2](https://user-images.githubusercontent.com/54634127/171666469-198a43db-d844-4189-980c-860a3d467bcf.png)
