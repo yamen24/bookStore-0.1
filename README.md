@@ -45,7 +45,7 @@ Layout:
 -HomeController.php
 -OrderController.php
 
-# Routes
+### Routes
 -api.php
 -channels.php
 -console.php
@@ -59,3 +59,8 @@ Layout:
 
 ### ER Diagram: 
 ![Picture2](https://user-images.githubusercontent.com/54634127/171666469-198a43db-d844-4189-980c-860a3d467bcf.png)
+### sequence diagram:
+![WhatsApp Image 2022-06-03 at 12 10 32 AM](https://user-images.githubusercontent.com/54634127/171675850-8b4b10f1-566f-47fe-b9f1-31ad83cbc078.jpeg)
+
+
+
