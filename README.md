@@ -61,6 +61,6 @@ Layout:
 ![Picture2](https://user-images.githubusercontent.com/54634127/171666469-198a43db-d844-4189-980c-860a3d467bcf.png)
 ### sequence diagram:
 ![WhatsApp Image 2022-06-03 at 12 10 32 AM](https://user-images.githubusercontent.com/54634127/171675850-8b4b10f1-566f-47fe-b9f1-31ad83cbc078.jpeg)
-
-
+###mockup
+https://www.figma.com/proto/ZTwUvEHAuOo5naDqz6obQP/Untitled?page-id=0%3A1&node-id=1%3A2&viewport=-1999%2C370%2C0.65&scaling=min-zoom
 
