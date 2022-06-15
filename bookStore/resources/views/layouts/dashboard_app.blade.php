@@ -9,7 +9,7 @@
     <meta content="Coderthemes" name="author" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <!-- App favicon -->
-    <link rel="shortcut icon" href="{{ asset('backend_assests') }}/images/favicon.ico">
+    <link rel="shortcut icon" href="{{ asset('backend_assests') }}/images/icon.png">
 
     <!-- App css -->
     <link href="{{ asset('backend_assets') }}/css/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap-stylesheet" />
@@ -221,7 +221,7 @@
                 <!-- Left Sidebar End -->
 
             <!-- ============================================================== -->
-            <!-- Start Page Content here -->
+            <!--  Page Content here -->
             <!-- ============================================================== -->
 
             <div class="content-page">
@@ -232,10 +232,6 @@
                 </div>
                 
             </div>
-
-            <!-- ============================================================== -->
-            <!-- End Page content -->
-            <!-- ============================================================== -->
 
         </div>
         <!-- END wrapper -->

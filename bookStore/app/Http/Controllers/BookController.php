@@ -57,7 +57,7 @@ class BookController extends Controller
        }
        return back()->with('success_message' , 'Book Insert SuccessFully!!');
 
-
+       
     }
 
     /**
@@ -94,7 +94,7 @@ class BookController extends Controller
           $new_photo_name = $book->id.'.'.$uploded_photo->getClientOriginalExtension();
           $new_photo_location = 'public/uploads/book_photos/'.$new_photo_name;
           Image::make($uploded_photo)->resize(500,385)->save(base_path($new_photo_location) , 70);
-     xfcdgvbhjn     $book->update([
+          $book->update([
             'cover_image' => $new_photo_name
           ]);
         }
