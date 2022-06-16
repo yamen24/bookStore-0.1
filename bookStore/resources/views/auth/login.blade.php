@@ -12,7 +12,7 @@
                          <div class="card mt-4">
                              <div class="card-header bg-img p-5 position-relative">
                                  <div class="bg-overlay"></div>
-                                 <h4 class="text-white text-center mb-0">Sign In to Moltran</h4>
+                                 <h4 class="text-white text-center mb-0">Sign In to Gombak Bookstore</h4>
                              </div>
                              <div class="card-body p-4 mt-2">
                                <form method="POST" action="{{ route('login') }}" class="p-3">
